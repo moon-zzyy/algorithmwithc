@@ -19,6 +19,9 @@
     <Filter Include="소스 파일\array">
       <UniqueIdentifier>{3f71ab7e-2fb4-4f98-80f6-dfedd20400f5}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\linkedlist">
+      <UniqueIdentifier>{a7f32b92-03fc-4dbe-8973-297be2419acb}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\..\..\algowithc\barkingdog_algo_c++\bfs_dfs\boj2573.cpp">
@@ -35,6 +38,15 @@
     </ClCompile>
     <ClCompile Include="boj3273.cpp">
       <Filter>소스 파일\array</Filter>
+    </ClCompile>
+    <ClCompile Include="boj1406.cpp">
+      <Filter>소스 파일\linkedlist</Filter>
+    </ClCompile>
+    <ClCompile Include="boj5397.cpp">
+      <Filter>소스 파일\linkedlist</Filter>
+    </ClCompile>
+    <ClCompile Include="boj1158.cpp">
+      <Filter>소스 파일\linkedlist</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

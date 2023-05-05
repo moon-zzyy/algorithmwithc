@@ -1,3 +1,4 @@
+// ฟกต๐ลอ
 #include <iostream>
 #include <list>
 #include <string>

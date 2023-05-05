@@ -1,3 +1,4 @@
+// 두 수의 합
 #include <iostream>
 using namespace std;
 

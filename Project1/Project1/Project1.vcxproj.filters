@@ -13,34 +13,70 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
-    <Filter Include="소스 파일\array">
+    <Filter Include="소스 파일\05_stack">
+      <UniqueIdentifier>{d70a3c29-30af-441e-a028-c4d1715f648b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\04_linkedlist">
+      <UniqueIdentifier>{a7f32b92-03fc-4dbe-8973-297be2419acb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\03_array">
       <UniqueIdentifier>{3f71ab7e-2fb4-4f98-80f6-dfedd20400f5}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\linkedlist">
-      <UniqueIdentifier>{a7f32b92-03fc-4dbe-8973-297be2419acb}</UniqueIdentifier>
+    <Filter Include="소스 파일\06_queue">
+      <UniqueIdentifier>{51179f95-fa3f-4646-ac25-01e288cb5c35}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="boj10808.cpp">
-      <Filter>소스 파일\array</Filter>
+      <Filter>소스 파일\03_array</Filter>
     </ClCompile>
     <ClCompile Include="boj2577.cpp">
-      <Filter>소스 파일\array</Filter>
+      <Filter>소스 파일\03_array</Filter>
     </ClCompile>
     <ClCompile Include="boj1475.cpp">
-      <Filter>소스 파일\array</Filter>
+      <Filter>소스 파일\03_array</Filter>
     </ClCompile>
     <ClCompile Include="boj3273.cpp">
-      <Filter>소스 파일\array</Filter>
+      <Filter>소스 파일\03_array</Filter>
     </ClCompile>
     <ClCompile Include="boj1406.cpp">
-      <Filter>소스 파일\linkedlist</Filter>
+      <Filter>소스 파일\04_linkedlist</Filter>
     </ClCompile>
     <ClCompile Include="boj5397.cpp">
-      <Filter>소스 파일\linkedlist</Filter>
+      <Filter>소스 파일\04_linkedlist</Filter>
     </ClCompile>
     <ClCompile Include="boj1158.cpp">
-      <Filter>소스 파일\linkedlist</Filter>
+      <Filter>소스 파일\04_linkedlist</Filter>
+    </ClCompile>
+    <ClCompile Include="05_stack\boj10828.cpp">
+      <Filter>소스 파일\05_stack</Filter>
+    </ClCompile>
+    <ClCompile Include="05_stack\boj1874.cpp">
+      <Filter>소스 파일\05_stack</Filter>
+    </ClCompile>
+    <ClCompile Include="05_stack\boj2493.cpp">
+      <Filter>소스 파일\05_stack</Filter>
+    </ClCompile>
+    <ClCompile Include="05_stack\boj10773.cpp">
+      <Filter>소스 파일\05_stack</Filter>
+    </ClCompile>
+    <ClCompile Include="06_queue\boj2164.cpp">
+      <Filter>소스 파일\06_queue</Filter>
+    </ClCompile>
+    <ClCompile Include="06_queue\boj10845.cpp">
+      <Filter>소스 파일\06_queue</Filter>
+    </ClCompile>
+    <ClCompile Include="06_queue\boj18258.cpp">
+      <Filter>소스 파일\06_queue</Filter>
+    </ClCompile>
+    <ClCompile Include="07_deque\boj1021.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="07_deque\boj5430.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="07_deque\boj10866.cpp">
+      <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

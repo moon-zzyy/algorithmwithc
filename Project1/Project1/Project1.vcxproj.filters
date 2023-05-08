@@ -25,6 +25,9 @@
     <Filter Include="소스 파일\06_queue">
       <UniqueIdentifier>{51179f95-fa3f-4646-ac25-01e288cb5c35}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\07_deque">
+      <UniqueIdentifier>{4b737bb2-c49e-4210-8cf8-ae3df3f823f9}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="boj10808.cpp">
@@ -70,12 +73,21 @@
       <Filter>소스 파일\06_queue</Filter>
     </ClCompile>
     <ClCompile Include="07_deque\boj1021.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\07_deque</Filter>
     </ClCompile>
     <ClCompile Include="07_deque\boj5430.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\07_deque</Filter>
     </ClCompile>
     <ClCompile Include="07_deque\boj10866.cpp">
+      <Filter>소스 파일\07_deque</Filter>
+    </ClCompile>
+    <ClCompile Include="09_bfs_dfs\boj1926.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="09_bfs_dfs\boj2178.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="09_bfs_dfs\boj7576.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

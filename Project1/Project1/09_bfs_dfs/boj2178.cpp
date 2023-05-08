@@ -22,6 +22,7 @@ void BFS(int i, int j) {
     for (int k = 0; k < 4; k++) {
       int nx = x + dx[k];
       int ny = y + dy[k];
+      // out of bound
       if (nx < 0 || nx >= n || ny < 0 || ny >= m) continue;
       // 길이고 방문하지 않음
       if (board[nx][ny] == 1 && !visited[nx][ny]) {

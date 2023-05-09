@@ -10,9 +10,9 @@
 | LINKED LIST       |  23/05/03 | 23/05/03  |  X  |
 | STACK             | 23/05/05  | 23/05/05  | 23/05/02  |
 | QUEUE             | 23/05/06  | 23/05/06  |  X  |
-| DEQUE             | 23/05/06  | 23/05/06  |       |
+| DEQUE             | 23/05/06  | 23/05/06  |   23/05/06    |
 | BFS/DFS           |   |   |       |
 | GREEDY            |   |   |       |
 | BACKTRACING       |   |   |       |
-| SIMULATIOn        |   |   |       |
+| SIMULATION        |   |   |       |
 | SORTING           |   |   |       |

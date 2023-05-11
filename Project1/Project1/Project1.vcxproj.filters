@@ -31,6 +31,9 @@
     <Filter Include="소스 파일\15_sorting">
       <UniqueIdentifier>{5860c383-0564-46f0-8183-7241e1db3904}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\09_bfs">
+      <UniqueIdentifier>{8716f2e8-a217-48d3-b8df-335608d954e5}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="boj10808.cpp">
@@ -84,31 +87,40 @@
     <ClCompile Include="07_deque\boj10866.cpp">
       <Filter>소스 파일\07_deque</Filter>
     </ClCompile>
-    <ClCompile Include="09_bfs_dfs\boj1012.cpp">
-      <Filter>소스 파일\15_sorting</Filter>
-    </ClCompile>
-    <ClCompile Include="09_bfs_dfs\boj1926.cpp">
-      <Filter>소스 파일\15_sorting</Filter>
-    </ClCompile>
-    <ClCompile Include="09_bfs_dfs\boj2178.cpp">
-      <Filter>소스 파일\15_sorting</Filter>
-    </ClCompile>
-    <ClCompile Include="09_bfs_dfs\boj4179.cpp">
-      <Filter>소스 파일\15_sorting</Filter>
-    </ClCompile>
-    <ClCompile Include="09_bfs_dfs\boj7576.cpp">
-      <Filter>소스 파일\15_sorting</Filter>
-    </ClCompile>
-    <ClCompile Include="09_bfs_dfs\boj10026.cpp">
+    <ClCompile Include="15_sorting\boj11652.cpp">
       <Filter>소스 파일\15_sorting</Filter>
     </ClCompile>
     <ClCompile Include="15_sorting\boj1012.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="15_sorting\boj11652.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\15_sorting</Filter>
     </ClCompile>
     <ClCompile Include="15_sorting\boj5648.cpp">
+      <Filter>소스 파일\15_sorting</Filter>
+    </ClCompile>
+    <ClCompile Include="09_bfs_dfs\boj1012.cpp">
+      <Filter>소스 파일\09_bfs</Filter>
+    </ClCompile>
+    <ClCompile Include="09_bfs_dfs\boj1926.cpp">
+      <Filter>소스 파일\09_bfs</Filter>
+    </ClCompile>
+    <ClCompile Include="09_bfs_dfs\boj2178.cpp">
+      <Filter>소스 파일\09_bfs</Filter>
+    </ClCompile>
+    <ClCompile Include="09_bfs_dfs\boj7576.cpp">
+      <Filter>소스 파일\09_bfs</Filter>
+    </ClCompile>
+    <ClCompile Include="09_bfs_dfs\boj10026.cpp">
+      <Filter>소스 파일\09_bfs</Filter>
+    </ClCompile>
+    <ClCompile Include="09_bfs_dfs\boj4179.cpp">
+      <Filter>소스 파일\09_bfs</Filter>
+    </ClCompile>
+    <ClCompile Include="09_bfs_dfs\boj1697.cpp">
+      <Filter>소스 파일\09_bfs</Filter>
+    </ClCompile>
+    <ClCompile Include="11_recursion\boj11729.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="11_recursion\boj1074.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

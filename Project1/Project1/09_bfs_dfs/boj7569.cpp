@@ -2,8 +2,6 @@
 // 골드
 #include <iostream>
 #include <queue>
-#include <string>
-#include <regex>
 using namespace std;
 
 const int MAX = 100;
@@ -35,28 +33,5 @@ void BFS(int i, int j) {
 int main(void) {
   ios::sync_with_stdio(0);
   cin.tie(0);
-  cin >> n;
-  for (int i = 0; i < n; i++) {
-    string row;
-    cin >> row;
-    board[i] = row;
-  }
-  int count1=0, count2=0;
-  // 정상
-  for (int i = 0; i < n; i++)
-    for (int j = 0; j < n; j++)
-      if (!visited[i][j]) {
-        BFS(i, j);
-        count1++;
-      }
-  // 적록색약
-  for (int i = 0; i < n; i++)
-    board[i] = regex_replace(board[i], regex("G"), "R");
-  for (int i = 0; i < n; i++)
-    for (int j = 0; j < n; j++)
-      if (!visited[i][j]) {
-        BFS(i, j);
-        count2++;
-      }
-  cout << count1 << " " << count2;
+
 }

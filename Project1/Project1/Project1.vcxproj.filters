@@ -108,5 +108,8 @@
     <ClCompile Include="15_sorting\boj11652.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="15_sorting\boj5648.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -12,6 +12,7 @@ int sum(string s) {
   for (char c : s) 
     if (isdigit(c)) result += c-'0';
   return result;
+  return result;
 }
 
 bool cmp(string a, string b) {

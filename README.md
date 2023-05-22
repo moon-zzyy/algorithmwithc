@@ -18,3 +18,4 @@
 | SORTING      | 23/05/11 | 23/05/11~  |       |
 | DYNAMIC PROGRAMMING |   |   |       |
 | GREEDY        |   |   |       |
+| TWO POINTERS    |  23/05/22  |   |       |

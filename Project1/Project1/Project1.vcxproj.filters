@@ -34,6 +34,9 @@
     <Filter Include="소스 파일\09_bfs">
       <UniqueIdentifier>{8716f2e8-a217-48d3-b8df-335608d954e5}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\11_recursion">
+      <UniqueIdentifier>{75d292c0-4880-4d75-867e-c85170a2325a}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="boj10808.cpp">
@@ -90,9 +93,6 @@
     <ClCompile Include="15_sorting\boj11652.cpp">
       <Filter>소스 파일\15_sorting</Filter>
     </ClCompile>
-    <ClCompile Include="15_sorting\boj1012.cpp">
-      <Filter>소스 파일\15_sorting</Filter>
-    </ClCompile>
     <ClCompile Include="15_sorting\boj5648.cpp">
       <Filter>소스 파일\15_sorting</Filter>
     </ClCompile>
@@ -117,10 +117,16 @@
     <ClCompile Include="09_bfs_dfs\boj1697.cpp">
       <Filter>소스 파일\09_bfs</Filter>
     </ClCompile>
+    <ClCompile Include="11_recursion\boj1074.cpp">
+      <Filter>소스 파일\11_recursion</Filter>
+    </ClCompile>
     <ClCompile Include="11_recursion\boj11729.cpp">
+      <Filter>소스 파일\11_recursion</Filter>
+    </ClCompile>
+    <ClCompile Include="20_two_pointers\boj1806.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="11_recursion\boj1074.cpp">
+    <ClCompile Include="20_two_pointers\boj2230.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
